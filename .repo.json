@@ -1,0 +1,17 @@
+{
+  "name": "legalpal-web-case-study",
+  "description": "Case study: the LegalPal web platform. A desktop-first Flutter web UI with top navigation, an AI assistant, floating chat panels and an embedded landing page, sharing all logic with the mobile app. Built for lawyers at their desks",
+  "topics": [
+    "flutter",
+    "flutter-web",
+    "case-study",
+    "legaltech",
+    "landing-page",
+    "bloc",
+    "firestore",
+    "arabic",
+    "rtl",
+    "desktop"
+  ],
+  "homepage": "https://play.google.com/store/apps/details?id=com.legalapp.pal"
+}

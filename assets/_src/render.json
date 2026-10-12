@@ -1,0 +1,53 @@
+{
+  "outDir": "..",
+  "brand": {
+    "name": "LegalPal Web",
+    "tagline": "Landing page + Flutter web platform",
+    "accent": "#22D3EE",
+    "accent2": "#1E6BFF",
+    "logo": "D:/shaker-github/_store/com.legalapp.pal/icon.png",
+    "dark": true
+  },
+  "images": [
+    {
+      "type": "html",
+      "file": "banner.png",
+      "width": 1280,
+      "height": 640,
+      "body": "<div class='grid-bg'></div><div style='position:absolute;inset:0;display:flex;align-items:center;padding:0 60px;gap:30px'><div style='width:470px;display:flex;flex-direction:column;gap:20px;flex:none'><div style='display:flex;align-items:center;gap:16px'><img src='file:///D:/shaker-github/_store/com.legalapp.pal/icon.png' style='width:72px;height:72px;border-radius:20px;box-shadow:0 10px 30px #0008'><div style='font-size:20px;opacity:.75;font-weight:600'>Case Study · Web</div></div><div class='title' style='font-size:60px'>LegalPal<br>on the web</div><div style='font-size:24px;opacity:.85;line-height:1.35'>A dedicated desktop experience for lawyers: top-nav web shell, AI assistant, plans and an embedded landing page.</div><div style='display:flex;flex-wrap:wrap;gap:10px'><span class='chip' style='font-size:17px'>Flutter Web</span><span class='chip' style='font-size:17px'>Path URLs</span><span class='chip' style='font-size:17px'>Guest mode</span><span class='chip' style='font-size:17px'>Arabic RTL</span></div></div><div style='position:relative;flex:1;height:520px'><div style='position:absolute;left:0;top:40px'><div class='browser' style='width:640px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/d/home.png' style='max-height:400px;object-fit:cover;object-position:top;'></div></div><div style='position:absolute;right:-10px;bottom:-6px'><div class='iphone' style='--w:175px'><div class='scr'><div class='island'></div><img src='file:///D:/shaker-github/_work/legalpal-shots/landingp/m_00.png'></div></div></div></div></div>"
+    },
+    {
+      "type": "web",
+      "file": "web-platform.png",
+      "title": "Web platform — home",
+      "screens": [
+        "D:/shaker-github/_work/legalpal-shots/d/home.png"
+      ],
+      "height": 1000
+    },
+    {
+      "type": "html",
+      "file": "web-platform-screens.png",
+      "width": 1600,
+      "height": 1080,
+      "body": "<div class='grid-bg'></div><div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:40px'><div class='title' style='font-size:42px'>Desktop-first screens, not a stretched phone UI</div><div style='display:grid;grid-template-columns:repeat(2,700px);gap:34px 40px;justify-items:center'><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/d/ai.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>AI legal assistant</div></div><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/d/subs.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>Subscription plans</div></div><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/d/lawsuits.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>Guest gate for private areas</div></div><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/d/home.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>Home with quick services</div></div></div></div>"
+    },
+    {
+      "type": "web",
+      "file": "web-landing.png",
+      "title": "Landing page",
+      "screens": [
+        "D:/shaker-github/_work/legalpal-shots/landing/d_00.png",
+        "D:/shaker-github/_work/legalpal-shots/landingp/m_00.png"
+      ],
+      "height": 1000
+    },
+    {
+      "type": "html",
+      "file": "web-landing-sections.png",
+      "width": 1600,
+      "height": 1080,
+      "body": "<div class='grid-bg'></div><div style='position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:40px'><div class='title' style='font-size:42px'>Landing page sections</div><div style='display:grid;grid-template-columns:repeat(2,700px);gap:34px 40px;justify-items:center'><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/landing/sec_features.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>All services in one place</div></div><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/landing/sec_lp_appblue.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>Why LegalPal</div></div><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/landing/sec_how.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>How it helps every day</div></div><div style='display:flex;flex-direction:column;gap:14px;align-items:center'><div class='browser' style='width:680px'><div class='bar'><i></i><i></i><i></i><span></span></div><img src='file:///D:/shaker-github/_work/legalpal-shots/landing/sec_screens.png' style='max-height:380px;object-fit:cover;object-position:top;'></div><div style='font-size:20px;opacity:.8'>See the app in action</div></div></div></div>"
+    }
+  ]
+}
